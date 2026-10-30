@@ -1,0 +1,329 @@
+{
+  "results": [
+    {
+      "scene": "criteria-review",
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "criteria-review",
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "criteria-review",
+      "width": 1280,
+      "height": 720,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1280,
+      "height": 720,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1280,
+      "height": 720,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1280,
+      "height": 720,
+      "overflow": false,
+      "duplicateIds": [],
+      "badgeVisible": true
+    },
+    {
+      "scene": "team-comparison",
+      "effectiveViewport": "720x450 at 2x",
+      "overflow": false
+    }
+  ],
+  "directScenes": [
+    {
+      "sceneId": "overview",
+      "busy": false,
+      "evaluationStatus": "not_calculated",
+      "currentScore": null,
+      "lastScore": null,
+      "potentialScore": null,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "base-viva",
+      "busy": false,
+      "evaluationStatus": "not_calculated",
+      "currentScore": null,
+      "lastScore": null,
+      "potentialScore": null,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "criteria-review",
+      "busy": false,
+      "evaluationStatus": "not_calculated",
+      "currentScore": null,
+      "lastScore": null,
+      "potentialScore": null,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "team-comparison",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 31,
+      "lastScore": 31,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "availability",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 31,
+      "lastScore": 31,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "recovery-start",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 31,
+      "lastScore": 31,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "recovery-received",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 31,
+      "lastScore": 31,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "recovery-verified",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 31,
+      "lastScore": 31,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "recovery-one",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 33,
+      "lastScore": 33,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "recovery-complete",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "dossier-review",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "prepared"
+    },
+    {
+      "sceneId": "dossier-approved",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "approved"
+    },
+    {
+      "sceneId": "discovery",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "approved"
+    },
+    {
+      "sceneId": "connect",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "approved"
+    },
+    {
+      "sceneId": "recognition",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "approved"
+    },
+    {
+      "sceneId": "second-rejected",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 33,
+      "lastScore": 33,
+      "potentialScore": 33,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "duplicate-proof",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 33,
+      "lastScore": 33,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "expired-credential",
+      "busy": false,
+      "evaluationStatus": "not_calculated",
+      "currentScore": null,
+      "lastScore": null,
+      "potentialScore": null,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "availability-unknown",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 29,
+      "lastScore": 29,
+      "potentialScore": 33,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "not_prepared"
+    },
+    {
+      "sceneId": "tender-amended",
+      "busy": false,
+      "evaluationStatus": "stale",
+      "currentScore": null,
+      "lastScore": 35,
+      "potentialScore": null,
+      "ruleVersion": "RULES-ENE-001-v2",
+      "dossierStatus": "review_required"
+    },
+    {
+      "sceneId": "export-blocked",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "review_required"
+    },
+    {
+      "sceneId": "connect-external",
+      "busy": false,
+      "evaluationStatus": "current",
+      "currentScore": 35,
+      "lastScore": 35,
+      "potentialScore": 35,
+      "ruleVersion": "RULES-ENE-001-v1",
+      "dossierStatus": "approved"
+    }
+  ],
+  "errors": [],
+  "external": []
+}

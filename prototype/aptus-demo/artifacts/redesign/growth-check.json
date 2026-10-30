@@ -1,0 +1,425 @@
+{
+  "results": [
+    {
+      "scene": "base-viva",
+      "width": 1440,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "mainWidth": 1214,
+      "mainRight": 1440,
+      "badge": true
+    },
+    {
+      "scene": "discovery",
+      "width": 1440,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "mainWidth": 1214,
+      "mainRight": 1440,
+      "badge": true
+    },
+    {
+      "scene": "connect",
+      "width": 1440,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "mainWidth": 1214,
+      "mainRight": 1440,
+      "badge": true
+    },
+    {
+      "scene": "recognition",
+      "width": 1440,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440,
+      "mainWidth": 1214,
+      "mainRight": 1440,
+      "badge": true
+    },
+    {
+      "scene": "base-viva",
+      "width": 1280,
+      "height": 720,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1280,
+      "documentWidth": 1280,
+      "mainWidth": 1054,
+      "mainRight": 1280,
+      "badge": true
+    },
+    {
+      "scene": "discovery",
+      "width": 1280,
+      "height": 720,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1280,
+      "documentWidth": 1280,
+      "mainWidth": 1054,
+      "mainRight": 1280,
+      "badge": true
+    },
+    {
+      "scene": "connect",
+      "width": 1280,
+      "height": 720,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1280,
+      "documentWidth": 1280,
+      "mainWidth": 1054,
+      "mainRight": 1280,
+      "badge": true
+    },
+    {
+      "scene": "recognition",
+      "width": 1280,
+      "height": 720,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1280,
+      "documentWidth": 1280,
+      "mainWidth": 1054,
+      "mainRight": 1280,
+      "badge": true
+    },
+    {
+      "scene": "base-viva",
+      "width": 768,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 768,
+      "documentWidth": 768,
+      "mainWidth": 696,
+      "mainRight": 768,
+      "badge": true
+    },
+    {
+      "scene": "discovery",
+      "width": 768,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 768,
+      "documentWidth": 768,
+      "mainWidth": 696,
+      "mainRight": 768,
+      "badge": true
+    },
+    {
+      "scene": "connect",
+      "width": 768,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 768,
+      "documentWidth": 768,
+      "mainWidth": 696,
+      "mainRight": 768,
+      "badge": true
+    },
+    {
+      "scene": "recognition",
+      "width": 768,
+      "height": 900,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 768,
+      "documentWidth": 768,
+      "mainWidth": 696,
+      "mainRight": 768,
+      "badge": true
+    },
+    {
+      "scene": "base-viva",
+      "width": 375,
+      "height": 812,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 375,
+      "documentWidth": 375,
+      "mainWidth": 311,
+      "mainRight": 375,
+      "badge": true
+    },
+    {
+      "scene": "discovery",
+      "width": 375,
+      "height": 812,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 375,
+      "documentWidth": 375,
+      "mainWidth": 311,
+      "mainRight": 375,
+      "badge": true
+    },
+    {
+      "scene": "connect",
+      "width": 375,
+      "height": 812,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 375,
+      "documentWidth": 375,
+      "mainWidth": 311,
+      "mainRight": 375,
+      "badge": true
+    },
+    {
+      "scene": "recognition",
+      "width": 375,
+      "height": 812,
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 375,
+      "documentWidth": 375,
+      "mainWidth": 311,
+      "mainRight": 375,
+      "badge": true
+    },
+    {
+      "scene": "base-viva",
+      "zoom": "CSS 200%",
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "scene": "discovery",
+      "zoom": "CSS 200%",
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "scene": "connect",
+      "zoom": "CSS 200%",
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "scene": "recognition",
+      "zoom": "CSS 200%",
+      "rootOverflow": false,
+      "bodyOverflow": false,
+      "viewport": 1440,
+      "documentWidth": 1440
+    }
+  ],
+  "reachability": [
+    {
+      "scene": "base-viva",
+      "width": 1440,
+      "height": 900,
+      "id": "profile-confirm",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 240,
+        "y": 628.4375,
+        "width": 180.5,
+        "height": 40
+      }
+    },
+    {
+      "scene": "discovery",
+      "width": 1440,
+      "height": 900,
+      "id": "campaign-respond",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 852,
+        "y": 494.78125,
+        "width": 175.4375,
+        "height": 40
+      }
+    },
+    {
+      "scene": "connect",
+      "width": 1440,
+      "height": 900,
+      "id": "referral-accept",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 852,
+        "y": 390.890625,
+        "width": 148,
+        "height": 40
+      }
+    },
+    {
+      "scene": "recognition",
+      "width": 1440,
+      "height": 900,
+      "id": "recognition-points",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 240,
+        "y": 317.28125,
+        "width": 378,
+        "height": 43.1875
+      }
+    },
+    {
+      "scene": "base-viva",
+      "width": 1280,
+      "height": 720,
+      "id": "profile-confirm",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 240,
+        "y": 628.4375,
+        "width": 180.5,
+        "height": 40
+      }
+    },
+    {
+      "scene": "discovery",
+      "width": 1280,
+      "height": 720,
+      "id": "campaign-respond",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 772,
+        "y": 494.78125,
+        "width": 175.4375,
+        "height": 40
+      }
+    },
+    {
+      "scene": "connect",
+      "width": 1280,
+      "height": 720,
+      "id": "referral-accept",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 772,
+        "y": 414.140625,
+        "width": 148,
+        "height": 40
+      }
+    },
+    {
+      "scene": "recognition",
+      "width": 1280,
+      "height": 720,
+      "id": "recognition-points",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 240,
+        "y": 317.28125,
+        "width": 324.65625,
+        "height": 43.1875
+      }
+    },
+    {
+      "scene": "base-viva",
+      "width": 720,
+      "height": 450,
+      "id": "profile-confirm",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 68,
+        "y": 233.875,
+        "width": 180.5,
+        "height": 40
+      }
+    },
+    {
+      "scene": "discovery",
+      "width": 720,
+      "height": 450,
+      "id": "campaign-respond",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 85,
+        "y": 233.5,
+        "width": 175.4375,
+        "height": 40
+      }
+    },
+    {
+      "scene": "connect",
+      "width": 720,
+      "height": 450,
+      "id": "referral-accept",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 85,
+        "y": 233.265625,
+        "width": 148,
+        "height": 40
+      }
+    },
+    {
+      "scene": "recognition",
+      "width": 720,
+      "height": 450,
+      "id": "recognition-points",
+      "visible": true,
+      "withinViewport": true,
+      "box": {
+        "x": 68,
+        "y": 365.78125,
+        "width": 628,
+        "height": 43.1875
+      }
+    }
+  ],
+  "filters": {
+    "empty": true,
+    "expiredRows": [
+      "PRPedro RochaPerfil v1Gestão de projetosPMP vencido26/10/2026 Documento vencidoA confirmar"
+    ],
+    "pendingRows": [
+      "LCLia CostaPerfil v1Segurança da informaçãoSegurança · Exame a confirmar26/10/2026 Comprovação pendenteA confirmar",
+      "MTMarina TorresPerfil v1TecnologiaTecnologia · Competência em nuvem a confirmar26/10/2026 Comprovação pendenteA confirmar",
+      "RNRafael NunesPerfil v1TecnologiaCertificação em análise26/10/2026 Documento rejeitadoA confirmar",
+      "PRPedro RochaPerfil v1Gestão de projetosPMP vencido26/10/2026 Documento vencidoA confirmar",
+      "ARAna RibeiroPerfil v1Análise de dadosAnálise de dados · Saúde26/10/2026 Agenda a confirmarA confirmar",
+      "TMTiago MartinsPerfil v1Segurança da informaçãoSegurança declarada26/10/2026 Agenda a confirmarA confirmar"
+    ]
+  },
+  "keyboard": {
+    "dialogOpened": true,
+    "dialogFocus": "<button class=\"icon-btn\" aria-label=\"Fechar diálogo\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=",
+    "afterTab": {
+      "inDialog": true,
+      "tag": "BUTTON",
+      "text": "Resumo"
+    },
+    "dialogClosed": true,
+    "focusReturned": true,
+    "tabContinues": null
+  },
+  "pageErrors": []
+}

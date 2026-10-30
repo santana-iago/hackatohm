@@ -1,0 +1,53 @@
+{
+  "id": "amep-pr-ce-02-2026",
+  "orgao": "AMEP - Agência de Assuntos Metropolitanos do Paraná",
+  "numero": "Concorrência Eletrônica 02/2026",
+  "objeto": "Projetos executivos completos em BIM do Parque Ambiental Piraquara",
+  "criterio": "tecnica_e_preco",
+  "fonte": "https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-05/ce_02-26_-_ata_de_julgamento_anexos_r02.pdf",
+  "observacao": "Regras reconstruídas da ata de julgamento; tetos agregados por quesito não constam da ata.",
+  "regras_gerais": {
+    "um_profissional_pontuado_por_funcao": true,
+    "criterio_quando_multiplos_indicados": "o de maior número de atestados"
+  },
+  "quesitos_empresa": [
+    {"id": "A", "nome": "Conhecimento do objeto", "minimo": 3.0, "tipo": "qualitativo"},
+    {"id": "B", "nome": "Metodologia e plano de trabalho", "minimo": 3.0, "tipo": "qualitativo"},
+    {"id": "C1", "nome": "Atestado de projeto BIM de parque ou urbano", "area_minima_m2": 5000, "pontos_max": 4},
+    {"id": "C2", "nome": "Atestado de projeto BIM de espaço público/lazer", "area_minima_m2": 2500, "pontos_max": 3},
+    {"id": "C3", "nome": "Atestado de espaço público", "area_minima_m2": 2500, "pontos_max": 1}
+  ],
+  "papeis": [
+    {
+      "papel": "Coordenador Geral",
+      "id": "D1",
+      "nota_minima_eliminatoria": 8.0,
+      "criterios": [
+        {"id": "D1.1", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 8},
+        {"id": "D1.2", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 6},
+        {"id": "D1.3", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 3}
+      ]
+    },
+    {
+      "papel": "Projetista Arquitetônico/Urbanista",
+      "id": "D2",
+      "criterios": [
+        {"id": "D2.1", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 4},
+        {"id": "D2.2", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 3},
+        {"id": "D2.3", "tipo": "experiencia", "evidencia": "atestado+CAT", "pontos_max": 1}
+      ]
+    }
+  ],
+  "resultado_real": [
+    {"licitante": "Magnus Engenharia e Arquitetura", "A": 10, "B": 9, "C": 16, "D": 41, "total": 76, "situacao": "classificada (1º)"},
+    {"licitante": "América Latina Engenharia", "A": 5, "B": 5, "C": 10, "D": 26, "total": 46, "situacao": "classificada"},
+    {"licitante": "Lima Engenharia", "A": 8, "B": 9, "C": 11, "D1": 6, "D2": 11, "situacao": "desclassificada: coordenador (D1) com 6, abaixo do mínimo de 8"}
+  ],
+  "motivos_de_pontos_nao_atribuidos": [
+    "atestado não se enquadra no objeto",
+    "papel diferente do exigido (coordenação/execução em vez de projeto)",
+    "atestado sem CAT",
+    "atestado não pertence ao acervo da licitante",
+    "área abaixo do mínimo"
+  ]
+}

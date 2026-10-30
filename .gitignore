@@ -1,0 +1,22 @@
+# Documentos de entrada e extrações usados localmente
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dependências e resultados de execução
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.tsbuildinfo
+
+# Configuração local
+.env
+.env.*
+!.env.example
+.DS_Store

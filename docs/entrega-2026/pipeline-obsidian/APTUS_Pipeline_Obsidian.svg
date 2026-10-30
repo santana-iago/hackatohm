@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="2000" viewBox="0 0 3200 2000" role="img" aria-labelledby="title desc">
+<title id="title">Aptus — pipeline de evidências, decisão e dossiê</title>
+<desc id="desc">Arquitetura proposta com Base Viva, Edital e equipe, Recovery, Descoberta, Connect e Dossiê. Pessoas verificam e aprovam; os modelos não concedem pontos.</desc>
+<rect x="0" y="0" width="3200" height="2000" rx="0" fill="#101116"/>
+<defs><pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="20" cy="20" r="0.8" fill="#272A34"/></pattern></defs><rect width="3200" height="2000" fill="url(#dots)"/>
+<text x="150.00" y="151.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="70" font-weight="700">APTUS</text>
+<text x="150.00" y="213.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="400">Da evidência à equipe e ao dossiê</text>
+<rect x="2395" y="108" width="570" height="52" rx="26" fill="#24202F" stroke="#4B405D" stroke-width="2"/>
+<text x="2514.81" y="140.40" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700">ARQUITETURA PROPOSTA</text>
+<text x="2667.62" y="206.40" fill="#8E95AB" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400">D03 / EloGroup  ·  Nexora</text>
+<rect x="110" y="275" width="700" height="995" rx="26" fill="#14161D" stroke="#2A2D38" stroke-width="2"/>
+<text x="150.00" y="321.40" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700">01  CONHECIMENTO VIVO</text>
+<rect x="850" y="275" width="1430" height="995" rx="26" fill="#16151D" stroke="#2A2D38" stroke-width="2"/>
+<text x="890.00" y="321.40" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700">02  DECISÃO POR EDITAL</text>
+<rect x="2320" y="715" width="700" height="555" rx="26" fill="#14161D" stroke="#2A2D38" stroke-width="2"/>
+<text x="2360.00" y="761.40" fill="#C4D2E4" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700">03  DOCUMENTO FINAL</text>
+<rect x="850" y="1405" width="2170" height="335" rx="26" fill="#12211D" stroke="#2A2D38" stroke-width="2"/>
+<text x="890.00" y="1451.40" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700">C  RECOVERY  ·  recuperar provas antes do prazo</text>
+<path d="M 295 585 C 295 700 365 695 365 790" fill="none" stroke="#83C9E8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="365.00,790.00 372.75,772.88 356.75,773.12" fill="#83C9E8"/>
+<path d="M 625 585 C 625 700 555 695 555 790" fill="none" stroke="#83C9E8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="555.00,790.00 563.25,773.12 547.25,772.88" fill="#83C9E8"/>
+<path d="M 1210 660 C 1210 720 1210 730 1210 790" fill="none" stroke="#BCA5F3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1210.00,790.00 1218.00,773.00 1202.00,773.00" fill="#BCA5F3"/>
+<path d="M 1940 585 C 1940 690 1940 700 1940 790" fill="none" stroke="#E6D5AA" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1940.00,790.00 1948.00,773.00 1932.00,773.00" fill="#E6D5AA"/>
+<path d="M 770 1000 C 815 1000 850 1000 900 1000" fill="none" stroke="#83C9E8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="900.00,1000.00 883.00,992.00 883.00,1008.00" fill="#83C9E8"/>
+<path d="M 1520 1000 C 1560 1000 1600 1000 1640 1000" fill="none" stroke="#BCA5F3" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1640.00,1000.00 1623.00,992.00 1623.00,1008.00" fill="#BCA5F3"/>
+<path d="M 2240 1000 C 2280 1000 2330 1000 2370 1000" fill="none" stroke="#C4D2E4" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="2370.00,1000.00 2353.00,992.00 2353.00,1008.00" fill="#C4D2E4"/>
+<path d="M 1210 1210 C 1210 1340 820 1310 820 1450 L 820 1540 C 820 1580 820 1580 860 1580 L 900 1580" fill="none" stroke="#79D6B0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="900.00,1580.00 883.00,1572.00 883.00,1588.00" fill="#79D6B0"/>
+<path d="M 1530 1580 C 1575 1580 1600 1580 1640 1580" fill="none" stroke="#79D6B0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1640.00,1580.00 1623.00,1572.00 1623.00,1588.00" fill="#79D6B0"/>
+<path d="M 2240 1580 C 2290 1580 2325 1580 2370 1580" fill="none" stroke="#79D6B0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="2370.00,1580.00 2353.00,1572.00 2353.00,1588.00" fill="#79D6B0"/>
+<path d="M 2670 1670 C 2670 1800 2670 1830 2530 1830 L 95 1830 C 55 1830 55 1830 55 1785 L 55 1080 C 55 1040 55 1040 100 1040 L 150 1040" fill="none" stroke="#79D6B0" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="150.00,1040.00 133.00,1032.00 133.00,1048.00" fill="#79D6B0"/>
+<path d="M 460 1210 C 460 1340 460 1360 460 1490" fill="none" stroke="#767F95" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="460.00,1490.00 468.00,1473.00 452.00,1473.00" fill="#767F95"/>
+<rect x="150" y="350" width="290" height="235" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="151" y="374" width="4" height="187" rx="2" fill="#83C9E8"/>
+<text x="180.00" y="393.00" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">D</text>
+<text x="180.00" y="440.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Descoberta</text>
+<text x="180.00" y="487.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Campanhas e</text>
+<text x="180.00" y="521.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">oportunidades</text>
+<text x="180.00" y="555.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Titular envia prova</text>
+<rect x="480" y="350" width="290" height="235" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="481" y="374" width="4" height="187" rx="2" fill="#83C9E8"/>
+<text x="510.00" y="393.00" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">E</text>
+<text x="510.00" y="440.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Connect</text>
+<text x="510.00" y="487.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Indicação / convite</text>
+<text x="510.00" y="521.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Aceite do indicado</text>
+<text x="510.00" y="555.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Titular fornece prova</text>
+<rect x="900" y="350" width="620" height="310" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="901" y="374" width="4" height="262" rx="2" fill="#BCA5F3"/>
+<text x="930.00" y="393.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">B1  ·  EDITAL</text>
+<text x="930.00" y="443.60" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700">Interpretar o edital</text>
+<text x="930.00" y="502.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Peças, anexos e retificações</text>
+<text x="930.00" y="540.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Docling extrai; Qwen propõe regras.</text>
+<text x="930.00" y="578.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Jev aponta ambiguidades.</text>
+<text x="930.00" y="636.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">Licitações aprova a matriz de critérios</text>
+<rect x="1640" y="350" width="600" height="235" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="1641" y="374" width="4" height="187" rx="2" fill="#E6D5AA"/>
+<text x="1670.00" y="393.00" fill="#E6D5AA" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">CONFIRMAÇÃO HUMANA</text>
+<text x="1670.00" y="440.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Agenda e participação</text>
+<text x="1670.00" y="487.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Disponibilidade, vínculo e capacidade</text>
+<text x="1670.00" y="521.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Confirmados pelo PMO para o período</text>
+<rect x="150" y="790" width="620" height="420" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="151" y="814" width="4" height="372" rx="2" fill="#83C9E8"/>
+<text x="180.00" y="833.00" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">A  ·  BASE VIVA</text>
+<text x="180.00" y="883.60" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700">Conhecimento verificável</text>
+<text x="180.00" y="942.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Currículos, comprovantes e eventos.</text>
+<text x="180.00" y="976.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Docling extrai; Qwen estrutura.</text>
+<text x="180.00" y="1010.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Jev classifica; Java valida os dados.</text>
+<text x="180.00" y="1044.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Titular/RH confere fatos e provas.</text>
+<line x1="180" y1="1063" x2="740" y2="1063" stroke="#363946" stroke-width="1.5"/>
+<text x="180.00" y="1107.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700">PostgreSQL + pgvector</text>
+<text x="180.00" y="1145.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Fatos · documentos · versões</text>
+<text x="180.00" y="1186.00" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">Documento recebido não gera ponto</text>
+<rect x="900" y="790" width="620" height="420" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="901" y="814" width="4" height="372" rx="2" fill="#BCA5F3"/>
+<text x="930.00" y="833.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">B2  ·  BUSCA E ELEGIBILIDADE</text>
+<text x="930.00" y="883.60" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700">Buscar e verificar</text>
+<text x="930.00" y="942.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">SQL exato preserva elegíveis conhecidos.</text>
+<text x="930.00" y="980.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Busca híbrida recupera evidências.</text>
+<text x="930.00" y="1018.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">RAG contextualiza Qwen; Jev avalia.</text>
+<text x="930.00" y="1056.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Java aplica os requisitos aprovados.</text>
+<text x="930.00" y="1095.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700">PASS / FAIL / UNKNOWN</text>
+<text x="930.00" y="1186.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">UNKNOWN crítico bloqueia confirmação</text>
+<rect x="1640" y="790" width="600" height="420" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="1641" y="814" width="4" height="372" rx="2" fill="#BCA5F3"/>
+<text x="1670.00" y="833.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">B3  ·  PONTUAÇÃO E COMPOSIÇÃO</text>
+<text x="1670.00" y="883.60" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700">Calcular e compor</text>
+<text x="1670.00" y="942.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Java calcula pontos comprovados.</text>
+<text x="1670.00" y="980.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">OR-Tools CP-SAT combina a equipe.</text>
+<text x="1670.00" y="1018.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Agenda, papéis e capacidade limitam.</text>
+<text x="1670.00" y="1056.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Jev sinaliza riscos qualitativos.</text>
+<line x1="1670" y1="1079" x2="2210" y2="1079" stroke="#363946" stroke-width="1.5"/>
+<text x="1670.00" y="1123.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700">PMO + Licitações aprovam</text>
+<rect x="2370" y="790" width="600" height="420" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="2371" y="814" width="4" height="372" rx="2" fill="#C4D2E4"/>
+<text x="2400.00" y="833.00" fill="#C4D2E4" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">F  ·  DOSSIÊ</text>
+<text x="2400.00" y="883.60" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="700">Proposta com fontes</text>
+<text x="2400.00" y="942.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Qwen redige; Jev revisa a aderência.</text>
+<text x="2400.00" y="980.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Java confere referências e checklist.</text>
+<text x="2400.00" y="1018.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Licitações aprova a versão final.</text>
+<line x1="2400" y1="1041" x2="2940" y2="1041" stroke="#363946" stroke-width="1.5"/>
+<text x="2400.00" y="1085.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700">Snapshot + exportação autorizada</text>
+<text x="2400.00" y="1123.20" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400">Escopo: equipe-chave.</text>
+<text x="2400.00" y="1186.00" fill="#C4D2E4" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">Exportar não significa submeter</text>
+<rect x="150" y="1490" width="620" height="230" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="151" y="1514" width="4" height="182" rx="2" fill="#8E95AB"/>
+<text x="180.00" y="1533.00" fill="#8E95AB" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">APOIO À BASE VIVA</text>
+<text x="180.00" y="1580.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Reconhecimento</text>
+<text x="180.00" y="1627.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Contribuições válidas mantêm a base viva.</text>
+<text x="180.00" y="1661.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Engajamento não altera a nota técnica.</text>
+<rect x="900" y="1490" width="630" height="180" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="901" y="1514" width="4" height="132" rx="2" fill="#79D6B0"/>
+<text x="930.00" y="1533.00" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">C1</text>
+<text x="930.00" y="1580.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Investigar a lacuna</text>
+<text x="930.00" y="1627.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Fonte, prazo e ganho potencial da equipe</text>
+<rect x="1640" y="1490" width="600" height="180" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="1641" y="1514" width="4" height="132" rx="2" fill="#79D6B0"/>
+<text x="1670.00" y="1533.00" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">C2</text>
+<text x="1670.00" y="1580.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Solicitar a prova</text>
+<text x="1670.00" y="1627.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Tarefa com responsável e prazo</text>
+<rect x="2370" y="1490" width="600" height="180" rx="18" fill="#1E2029" stroke="#363946" stroke-width="2"/>
+<rect x="2371" y="1514" width="4" height="132" rx="2" fill="#79D6B0"/>
+<text x="2400.00" y="1533.00" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700">C3</text>
+<text x="2400.00" y="1580.40" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700">Verificar e aceitar</text>
+<text x="2400.00" y="1627.60" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">RH verifica; Licitações aceita no edital</text>
+<text x="353.74" y="696.00" fill="#83C9E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">declarações e provas</text>
+<text x="1127.88" y="727.00" fill="#BCA5F3" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">matriz aprovada</text>
+<text x="1842.83" y="701.00" fill="#E6D5AA" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">agenda confirmada</text>
+<text x="1250.00" y="1325.60" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">lacuna documental</text>
+<text x="352.29" y="1366.00" fill="#8E95AB" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400">contribuição validada</text>
+<text x="2370.00" y="362.60" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700">UMA REGRA CENTRAL</text>
+<text x="2370.00" y="423.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="35" font-weight="700">Sem prova aceita,</text>
+<text x="2370.00" y="470.00" fill="#F2F3F7" font-family="DejaVu Sans,Arial,sans-serif" font-size="35" font-weight="700">não há ponto confirmado.</text>
+<text x="2370.00" y="535.00" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400">IA propõe. Regras calculam.</text>
+<text x="2370.00" y="575.00" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="400">Pessoas verificam e aprovam.</text>
+<text x="2370.00" y="640.60" fill="#8E95AB" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400">Demonstração com dados sintéticos.</text>
+<text x="1053.59" y="1798.20" fill="#79D6B0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700">PROVA ACEITA  →  ATUALIZAR A BASE  →  REEXECUTAR REGRAS E OTIMIZAÇÃO</text>
+<text x="150.00" y="1928.40" fill="#B5BACB" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400">Permissões antes da busca  ·  Dados mínimos  ·  Fontes e versões  ·  Revisão humana</text>
+<text x="2672.16" y="1928.40" fill="#8E95AB" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400">Quatro e meio  /  CEFET-MG</text>
+</svg>

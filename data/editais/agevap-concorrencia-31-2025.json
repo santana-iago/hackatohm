@@ -1,0 +1,48 @@
+{
+  "id": "agevap-concorrencia-31-2025",
+  "orgao": "AGEVAP",
+  "numero": "Concorrência 31/2025",
+  "objeto": "Elaboração/atualização de Planos Municipais de Saneamento Básico (PMSB) de seis municípios da RH II (Guandu)",
+  "criterio": "tecnica_e_preco",
+  "fonte": [
+    "https://www.agevap.org.br/sisatos/nota-tec-concorrencia-31-2025.pdf",
+    "https://www.agevap.org.br/sisatos/nota-tec-revi-concorrencia-31-2025.pdf"
+  ],
+  "nota_tecnica_minima_total": 50,
+  "quesitos": [
+    {"id": "A", "nome": "Equipe", "teto": 40, "minimo": 20},
+    {"id": "B", "nome": "Experiência da empresa", "teto": 30, "minimo": 10},
+    {"id": "C", "nome": "Metodologia (25) e plano de trabalho (5)", "teto": 30, "minimo": 10, "tipo": "qualitativo"}
+  ],
+  "papeis": [
+    {
+      "papel": "Coordenador",
+      "id": "A1",
+      "nota_minima_eliminatoria": 10,
+      "criterios": [
+        {"tipo": "formacao", "descricao": "Pós-graduação na área", "pontos": 2, "teto": 2},
+        {"tipo": "experiencia", "descricao": "Atestado de PMSB ou gestão de resíduos sólidos urbanos", "pontos_por_unidade": 8, "teto": 16, "evidencia": "atestado"},
+        {"tipo": "experiencia", "descricao": "Atestado de projeto/obra de saneamento", "pontos": 4, "teto": 4, "evidencia": "atestado"}
+      ]
+    },
+    {
+      "papel": "Engenheiro Pleno",
+      "id": "A2",
+      "requisitos_obrigatorios": ["mínimo 5 anos de formado", "registro regular no conselho profissional"],
+      "criterios": [
+        {"tipo": "formacao", "descricao": "Pós-graduação na área", "pontos": 2, "teto": 2},
+        {"tipo": "experiencia", "descricao": "Atestado de PMSB ou PMGIRS", "pontos_por_unidade": 8, "teto": 16, "evidencia": "atestado"},
+        {"tipo": "experiencia", "descricao": "Atestado de projeto/obra de saneamento", "pontos": 4, "teto": 4, "evidencia": "atestado"}
+      ]
+    }
+  ],
+  "resultado_real_quesito_A": [
+    {"licitante": "DRZ", "A1": 22, "A2": 20, "A": 40, "perda": "A2: pós-graduação não apresentada"},
+    {"licitante": "Ampla", "A1": 18, "A2": 18, "A": 36, "perda": "A1: atestado de obra fora do objeto; A2: pós e atestado não apresentados"},
+    {"licitante": "Empia", "A1": 20, "A2": 20, "A": 40, "perda": "pós-graduação não apresentada / diploma em área diferente"},
+    {"licitante": "Nippon Koei-TCA", "A1": 22, "A2": 18, "A": 40, "perda": "A2: atestado de obra fora do objeto"},
+    {"licitante": "Engecorps-Geasa", "A1": 22, "A2": 14, "A": 36, "perda": "A2: só um atestado de PMSB considerado (8 de 16)"},
+    {"licitante": "Hidrobr", "situacao": "desclassificada: engenheira sem regularidade no conselho"}
+  ],
+  "nota_tecnica_total_real": {"Nippon Koei-TCA": 95.58, "Ampla": 89.12, "DRZ": 88.47, "Hidrobr": 88.12, "Empia": 87.83, "Engecorps-Geasa": 83.33}
+}

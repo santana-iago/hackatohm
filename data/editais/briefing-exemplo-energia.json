@@ -1,0 +1,19 @@
+{
+  "id": "briefing-exemplo-energia",
+  "orgao": "Simulado (exemplo dado na reunião de briefing)",
+  "objeto": "Consultoria com gerente de projeto para o setor de energia",
+  "criterio": "tecnica_e_preco",
+  "pesos": {"tecnica": 0.7, "preco": 0.3},
+  "papeis": [
+    {
+      "papel": "Gerente de Projeto",
+      "requisitos_obrigatorios": [{"tipo": "perfil", "valor": "gerente de projeto ou scrum master"}],
+      "criterios": [
+        {"tipo": "certificacao", "valor": "PMP", "pontos": 10, "exige_validade": true},
+        {"tipo": "experiencia_setor", "valor": "energia", "pontos_por_unidade": 2, "teto": 8, "evidencia": "projeto comprovado"},
+        {"tipo": "certificacao_qualquer", "valor": ["CSM", "PSM", "SAFe"], "pontos": 3}
+      ]
+    }
+  ],
+  "desempate": ["maior validade restante", "maior disponibilidade no período", "mais evidências comprovadas", "experiência mais recente"]
+}

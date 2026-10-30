@@ -1,0 +1,38 @@
+{
+  "id": "secid-pr-criterios-pontuacao",
+  "orgao": "SECID-PR (Secretaria das Cidades / Infraestrutura do Paraná)",
+  "objeto": "Projeto e obra de edifício público de uso cultural (museu/teatro), com restauro e BIM",
+  "criterio": "tecnica_e_preco",
+  "fonte": "https://www.secid.pr.gov.br/sites/default/arquivos_restritos/files/documento/2024-12/09_09_criterios_de_pontuacao_-_analise_tecnica_e_de_precos.pdf",
+  "pesos": {"tecnica": 0.7, "preco": 0.3},
+  "nota_final_minima": 60,
+  "quesitos": [
+    {"id": "1", "nome": "Plano de trabalho", "teto": 40, "minimo": 16, "tipo": "qualitativo"},
+    {"id": "2", "nome": "Experiência da empresa", "teto": 30},
+    {"id": "3", "nome": "Experiência da equipe técnica", "teto": 30}
+  ],
+  "equipe": {
+    "evidencia": "CAT emitida por CREA e/ou CAU + declaração de responsabilidade",
+    "vinculo_aceito": ["CTPS", "certidão CREA/CAU", "contrato social", "contrato de prestação de serviço", "contrato de trabalho registrado"],
+    "substituicao": "só com experiência mínima equivalente comprovada",
+    "areas_nao_somam_entre_projetos": true,
+    "pontos_por_unidade": 1,
+    "criterios": [
+      {"id": "a", "descricao": "Coordenação e compatibilização de projetos", "minimo": "2000 m²", "teto": 2},
+      {"id": "b", "descricao": "Coordenação BIM", "minimo": "1000 m²", "teto": 2},
+      {"id": "c", "descricao": "Arquitetura executiva, interiores, acessibilidade", "minimo": "2000 m²", "teto": 2},
+      {"id": "d", "descricao": "Restauro executivo", "minimo": "400 m²", "teto": 3},
+      {"id": "e", "descricao": "Reforma/restauro de bem tombado", "minimo": "200 m²", "teto": 2},
+      {"id": "f", "descricao": "Paisagismo executivo", "minimo": "1000 m²", "teto": 2},
+      {"id": "g", "descricao": "Estrutura em concreto armado", "minimo": "2000 m²", "teto": 2},
+      {"id": "h", "descricao": "Estudo/laudo de patologia", "minimo": "2000 m²", "teto": 2},
+      {"id": "i", "descricao": "Projeto de prevenção de incêndio", "minimo": "2000 m²", "teto": 1},
+      {"id": "j", "descricao": "Projeto de climatização (HVAC)", "minimo": "2000 m²", "teto": 1},
+      {"id": "k", "descricao": "Projeto de redes", "minimo": "2000 m²", "teto": 2},
+      {"id": "l", "descricao": "Planejamento, orçamento e cronograma", "minimo": "2000 m²", "teto": 2},
+      {"id": "m", "descricao": "Projeto de retrofit", "minimo": "400 m²", "teto": 2},
+      {"id": "n", "descricao": "Arquitetura de museu ou centro cultural", "minimo": "500 m²", "teto": 3},
+      {"id": "o", "descricao": "Projeto de teatro ou auditório", "minimo": "100 lugares", "teto": 2}
+    ]
+  }
+}

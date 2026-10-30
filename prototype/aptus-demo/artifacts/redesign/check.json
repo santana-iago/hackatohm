@@ -1,0 +1,302 @@
+{
+  "checks": [
+    {
+      "scene": "overview",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "criteria-review",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "base-viva",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "discovery",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "connect",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recognition",
+      "width": 1440,
+      "height": 900,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 783,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "overview",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "criteria-review",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "base-viva",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "discovery",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "connect",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recognition",
+      "width": 1280,
+      "height": 720,
+      "capture": false,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 603,
+      "toolbarHeight": 58,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "overview",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "team-comparison",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "criteria-review",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recovery-complete",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "dossier-review",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "base-viva",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "discovery",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "connect",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    },
+    {
+      "scene": "recognition",
+      "width": 1920,
+      "height": 1080,
+      "capture": true,
+      "rootOverflow": false,
+      "mainOverflow": false,
+      "mainHeight": 957,
+      "toolbarHeight": 62,
+      "scrollOwner": "auto"
+    }
+  ],
+  "errors": []
+}

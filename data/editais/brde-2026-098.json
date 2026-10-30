@@ -1,0 +1,15 @@
+{
+  "id": "brde-2026-098",
+  "orgao": "BRDE - Banco Regional de Desenvolvimento do Extremo Sul",
+  "numero": "Edital 2026/098",
+  "objeto": "Consultoria técnica especializada para estudos do sistema ferroviário da Malha Sul Ampliada",
+  "criterio": "tecnica_e_preco",
+  "fonte": "https://brde.com.br/wp-content/uploads/2026/06/2026_098-Edital-e-anexos.pdf",
+  "formula": {
+    "ITP": "(NT / maior NT) * 7",
+    "IPP": "(menor preço / preço da proposta) * 3",
+    "NF": "ITP + IPP"
+  },
+  "habilitacao_empresa": "ao menos 3 projetos comparáveis nos últimos 10 anos: 1 com predominância ferroviária e 2 de estruturação/modelagem de concessão ou PPP",
+  "pendente": "Tabela de pontuação da equipe está no Anexo IV, não incluído no PDF público analisado"
+}

@@ -1,0 +1,138 @@
+Análise exploratória da base do desafio. Identificadores de arquivos anonimizados para consulta pública.
+As contagens abaixo são aproximadas e dependem das heurísticas dos scripts.
+
+N = 228
+
+== Papel principal (heurística por nome/topo) ==
+  Java / Fullstack Dev          103   45.2%
+  Business Analyst / BSA         45   19.7%
+  Project/Program Manager        42   18.4%
+  Scrum Master                   18    7.9%
+  (indefinido)                   10    4.4%
+  QA / Testing                    7    3.1%
+  PHP / Web                       2    0.9%
+  Data / Hadoop                   1    0.4%
+
+== Certificações mencionadas (nº de currículos) ==
+  Six Sigma                            32   14.0%
+  CSM (Scrum Master)                   32   14.0%
+  PMP                                  29   12.7%
+  ITIL                                 20    8.8%
+  SAFe                                 20    8.8%
+  Oracle Certified (OCJP/OCA/SCJP)     18    7.9%
+  PSM                                  11    4.8%
+  Scrum Alliance (generic)              8    3.5%
+  Azure / Microsoft cert                6    2.6%
+  ISTQB                                 4    1.8%
+  CSPO / PSPO                           4    1.8%
+  CBAP / CCBA / ECBA (IIBA)             4    1.8%
+  PRINCE2                               3    1.3%
+  AWS Certified                         2    0.9%
+  Cloudera / Hadoop cert                1    0.4%
+  -> sem nenhuma certificação detectada: 142 (62.3%)
+  -> com seção explícita de certificações: 45
+  -> mencionam validade/expiração: 3
+
+== Skills / domínios ==
+  Agile/Scrum                     218   95.6%
+  SQL                             216   94.7%
+  Java                            186   81.6%
+  JIRA                            186   81.6%
+  Selenium/QA                     175   76.8%
+  Waterfall                       166   72.8%
+  UML                             165   72.4%
+  Insurance                       130   57.0%
+  Banking/Finance                 122   53.5%
+  Spring                          117   51.3%
+  Angular/React                   117   51.3%
+  AWS                             111   48.7%
+  Retail/E-commerce               106   46.5%
+  Energy/Utilities                 93   40.8%
+  Python                           57   25.0%
+  Government/Public sector         56   24.6%
+  Healthcare (HIPAA/HL7/EDI)       56   24.6%
+  SAP                              51   22.4%
+  Tableau                          50   21.9%
+  Hadoop                           43   18.9%
+  Telecom                          38   16.7%
+  Spark                            37   16.2%
+  PHP                              33   14.5%
+  Azure                            30   13.2%
+  Salesforce                       21    9.2%
+  Power BI                         15    6.6%
+
+== Dados pessoais presentes ==
+  email            179   78.5%
+  phone            173   75.9%
+  SSN/DOB/visa      69   30.3%
+  linkedin           6    2.6%
+
+== Anos de experiência declarados: 209 com valor; mediana 8, min 4, max 25
+== Ano mais recente citado no currículo (proxy de 'última atualização') ==
+  1996: 1
+  2000: 2
+  2001: 1
+  2003: 2
+  2005: 2
+  2008: 9
+  2009: 5
+  2010: 4
+  2011: 2
+  2012: 6
+  2013: 6
+  2014: 9
+  2015: 27
+  2016: 64
+  2017: 66
+  2018: 7
+  2019: 1
+  2020: 1
+  2086: 1
+
+== Duplicatas exatas (texto normalizado) ==
+   ['CV-001', 'CV-002']
+   ['CV-003', 'CV-004']
+   ['CV-005', 'CV-006']
+
+== Agrupamentos por nome (heurística; identificadores anonimizados) ==
+  grupo-04: ['CV-007', 'CV-008']
+  grupo-05: ['CV-009', 'CV-010', 'CV-011', 'CV-012']
+  grupo-06: ['CV-013', 'CV-014']
+  grupo-07: ['CV-015', 'CV-016']
+  grupo-08: ['CV-017', 'CV-018', 'CV-019', 'CV-020']
+  grupo-09: ['CV-021', 'CV-022', 'CV-023']
+  grupo-10: ['CV-024', 'CV-025']
+  grupo-11: ['CV-026', 'CV-027']
+  grupo-12: ['CV-028', 'CV-029', 'CV-030']
+  grupo-13: ['CV-003', 'CV-004']
+  grupo-14: ['CV-031', 'CV-032']
+  grupo-15: ['CV-033', 'CV-034']
+  grupo-16: ['CV-035', 'CV-036']
+  grupo-17: ['CV-037', 'CV-038']
+  grupo-18: ['CV-039', 'CV-040']
+  grupo-19: ['CV-041', 'CV-042']
+  grupo-20: ['CV-043', 'CV-044']
+  grupo-21: ['CV-045', 'CV-046', 'CV-047', 'CV-048', 'CV-049']
+  grupo-22: ['CV-050', 'CV-051', 'CV-052', 'CV-053']
+  grupo-23: ['CV-054', 'CV-055']
+  grupo-24: ['CV-056', 'CV-057']
+  grupo-25: ['CV-058', 'CV-059']
+  grupo-26: ['CV-060', 'CV-061', 'CV-062', 'CV-063']
+  grupo-27: ['CV-064', 'CV-065']
+  grupo-28: ['CV-066', 'CV-067']
+  grupo-29: ['CV-068', 'CV-005', 'CV-006']
+60 candidatos com perfil PM/SM
+
+pts  currículo                                PMP  proj.energia  ágil  anos
+ 18  CV-014                                                                 sim       5        não  None
+ 18  CV-013                                                       sim       5        não  10
+ 16  CV-069                                                            sim       3        não  12
+ 13  CV-070                                                            sim       0        sim  16
+ 13  CV-071                                                              sim       0        sim  17
+ 13  CV-047                                                             sim       0        sim  19
+ 13  CV-046                                                    sim       0        sim  19
+ 13  CV-043                                     sim       0        sim  17
+ 13  CV-072                                        sim       0        sim  14
+ 13  CV-073                                   sim       0        sim  17
+
+Com PMP: 28 | com >=1 projeto energia: 8 | PMP e energia: 4

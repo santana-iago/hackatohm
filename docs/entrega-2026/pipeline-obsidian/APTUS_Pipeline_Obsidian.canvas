@@ -1,0 +1,310 @@
+{
+  "nodes": [
+    {
+      "id": "g_knowledge",
+      "type": "group",
+      "x": 110,
+      "y": 275,
+      "width": 700,
+      "height": 995,
+      "label": "01  CONHECIMENTO VIVO",
+      "color": "#83C9E8"
+    },
+    {
+      "id": "g_decision",
+      "type": "group",
+      "x": 850,
+      "y": 275,
+      "width": 1430,
+      "height": 995,
+      "label": "02  DECISÃO POR EDITAL",
+      "color": "#BCA5F3"
+    },
+    {
+      "id": "g_output",
+      "type": "group",
+      "x": 2320,
+      "y": 715,
+      "width": 700,
+      "height": 555,
+      "label": "03  DOCUMENTO FINAL",
+      "color": "#C4D2E4"
+    },
+    {
+      "id": "g_recovery",
+      "type": "group",
+      "x": 850,
+      "y": 1405,
+      "width": 2170,
+      "height": 335,
+      "label": "C  RECOVERY  ·  recuperar provas antes do prazo",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "discover",
+      "type": "text",
+      "x": 150,
+      "y": 350,
+      "width": 290,
+      "height": 235,
+      "text": "## D\n# Descoberta\n\nCampanhas e\noportunidades\nTitular envia prova",
+      "color": "#83C9E8"
+    },
+    {
+      "id": "connect",
+      "type": "text",
+      "x": 480,
+      "y": 350,
+      "width": 290,
+      "height": 235,
+      "text": "## E\n# Connect\n\nIndicação / convite\nAceite do indicado\nTitular fornece prova",
+      "color": "#83C9E8"
+    },
+    {
+      "id": "criteria",
+      "type": "text",
+      "x": 900,
+      "y": 350,
+      "width": 620,
+      "height": 310,
+      "text": "## B1  ·  EDITAL\n# Interpretar o edital\n\nPeças, anexos e retificações\nDocling extrai; Qwen propõe regras.\nJev aponta ambiguidades.\n\n**Licitações aprova a matriz de critérios**",
+      "color": "#BCA5F3"
+    },
+    {
+      "id": "availability",
+      "type": "text",
+      "x": 1640,
+      "y": 350,
+      "width": 600,
+      "height": 235,
+      "text": "## CONFIRMAÇÃO HUMANA\n# Agenda e participação\n\nDisponibilidade, vínculo e capacidade\nConfirmados pelo PMO para o período",
+      "color": "#E6D5AA"
+    },
+    {
+      "id": "base",
+      "type": "text",
+      "x": 150,
+      "y": 790,
+      "width": 620,
+      "height": 420,
+      "text": "## A  ·  BASE VIVA\n# Conhecimento verificável\n\nCurrículos, comprovantes e eventos.\nDocling extrai; Qwen estrutura.\nJev classifica; Java valida os dados.\nTitular/RH confere fatos e provas.\n\n---\n\n**PostgreSQL + pgvector**\nFatos · documentos · versões\n\n**Documento recebido não gera ponto**",
+      "color": "#83C9E8"
+    },
+    {
+      "id": "search",
+      "type": "text",
+      "x": 900,
+      "y": 790,
+      "width": 620,
+      "height": 420,
+      "text": "## B2  ·  BUSCA E ELEGIBILIDADE\n# Buscar e verificar\n\nSQL exato preserva elegíveis conhecidos.\nBusca híbrida recupera evidências.\nRAG contextualiza Qwen; Jev avalia.\nJava aplica os requisitos aprovados.\n**PASS / FAIL / UNKNOWN**\n\n**UNKNOWN crítico bloqueia confirmação**",
+      "color": "#BCA5F3"
+    },
+    {
+      "id": "team",
+      "type": "text",
+      "x": 1640,
+      "y": 790,
+      "width": 600,
+      "height": 420,
+      "text": "## B3  ·  PONTUAÇÃO E COMPOSIÇÃO\n# Calcular e compor\n\nJava calcula pontos comprovados.\nOR-Tools CP-SAT combina a equipe.\nAgenda, papéis e capacidade limitam.\nJev sinaliza riscos qualitativos.\n\n---\n\n**PMO + Licitações aprovam**",
+      "color": "#BCA5F3"
+    },
+    {
+      "id": "dossier",
+      "type": "text",
+      "x": 2370,
+      "y": 790,
+      "width": 600,
+      "height": 420,
+      "text": "## F  ·  DOSSIÊ\n# Proposta com fontes\n\nQwen redige; Jev revisa a aderência.\nJava confere referências e checklist.\nLicitações aprova a versão final.\n\n---\n\n**Snapshot + exportação autorizada**\nEscopo: equipe-chave.\n\n**Exportar não significa submeter**",
+      "color": "#C4D2E4"
+    },
+    {
+      "id": "recognition",
+      "type": "text",
+      "x": 150,
+      "y": 1490,
+      "width": 620,
+      "height": 230,
+      "text": "## APOIO À BASE VIVA\n# Reconhecimento\n\nContribuições válidas mantêm a base viva.\nEngajamento não altera a nota técnica.",
+      "color": "#8E95AB"
+    },
+    {
+      "id": "recovery_source",
+      "type": "text",
+      "x": 900,
+      "y": 1490,
+      "width": 630,
+      "height": 180,
+      "text": "## C1\n# Investigar a lacuna\n\nFonte, prazo e ganho potencial da equipe",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "recovery_task",
+      "type": "text",
+      "x": 1640,
+      "y": 1490,
+      "width": 600,
+      "height": 180,
+      "text": "## C2\n# Solicitar a prova\n\nTarefa com responsável e prazo",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "recovery_accept",
+      "type": "text",
+      "x": 2370,
+      "y": 1490,
+      "width": 600,
+      "height": 180,
+      "text": "## C3\n# Verificar e aceitar\n\nRH verifica; Licitações aceita no edital",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "title",
+      "type": "text",
+      "x": 150,
+      "y": 70,
+      "width": 2100,
+      "height": 160,
+      "text": "# APTUS\n## Da evidência à equipe e ao dossiê\nArquitetura proposta · D03 / EloGroup · Nexora"
+    },
+    {
+      "id": "central_rule",
+      "type": "text",
+      "x": 2370,
+      "y": 340,
+      "width": 600,
+      "height": 320,
+      "text": "## Uma regra central\n# Sem prova aceita, não há ponto confirmado.\n\nIA propõe. Regras calculam. Pessoas verificam e aprovam.\n\nDemonstração com dados sintéticos.",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "controls",
+      "type": "text",
+      "x": 150,
+      "y": 1880,
+      "width": 2850,
+      "height": 100,
+      "text": "**Permissões antes da busca · Dados mínimos · Fontes e versões · Revisão humana**\n\nQuatro e meio / CEFET-MG"
+    }
+  ],
+  "edges": [
+    {
+      "id": "d_a",
+      "fromNode": "discover",
+      "fromSide": "bottom",
+      "toNode": "base",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#83C9E8",
+      "label": "declaração e prova"
+    },
+    {
+      "id": "e_a",
+      "fromNode": "connect",
+      "fromSide": "bottom",
+      "toNode": "base",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#83C9E8",
+      "label": "aceite e provas"
+    },
+    {
+      "id": "criteria_search",
+      "fromNode": "criteria",
+      "fromSide": "bottom",
+      "toNode": "search",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#BCA5F3",
+      "label": "matriz aprovada"
+    },
+    {
+      "id": "pmo_team",
+      "fromNode": "availability",
+      "fromSide": "bottom",
+      "toNode": "team",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#E6D5AA",
+      "label": "agenda confirmada"
+    },
+    {
+      "id": "a_search",
+      "fromNode": "base",
+      "fromSide": "right",
+      "toNode": "search",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#83C9E8",
+      "label": "fontes autorizadas"
+    },
+    {
+      "id": "search_team",
+      "fromNode": "search",
+      "fromSide": "right",
+      "toNode": "team",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#BCA5F3"
+    },
+    {
+      "id": "team_dossier",
+      "fromNode": "team",
+      "fromSide": "right",
+      "toNode": "dossier",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#C4D2E4"
+    },
+    {
+      "id": "search_recovery",
+      "fromNode": "search",
+      "fromSide": "bottom",
+      "toNode": "recovery_source",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#79D6B0",
+      "label": "lacuna documental"
+    },
+    {
+      "id": "recover_task",
+      "fromNode": "recovery_source",
+      "fromSide": "right",
+      "toNode": "recovery_task",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "task_accept",
+      "fromNode": "recovery_task",
+      "fromSide": "right",
+      "toNode": "recovery_accept",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#79D6B0"
+    },
+    {
+      "id": "return_base",
+      "fromNode": "recovery_accept",
+      "fromSide": "bottom",
+      "toNode": "base",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#79D6B0",
+      "label": "prova aceita → atualizar a base → reexecutar regras e otimização"
+    },
+    {
+      "id": "engagement",
+      "fromNode": "base",
+      "fromSide": "bottom",
+      "toNode": "recognition",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#8E95AB",
+      "label": "contribuição validada"
+    }
+  ]
+}
