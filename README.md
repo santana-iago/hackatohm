@@ -4,12 +4,16 @@ Projeto da equipe Quatro e meio, do CEFET-MG, para o desafio D03 da EloGroup no 
 
 O Aptus reúne qualificações profissionais, documentos e regras de editais para ajudar a montar equipes e preparar propostas técnicas. Cada parcela da nota fica ligada ao critério e à comprovação que a sustentam.
 
+A arquitetura proposta usa **Java 21 com Spring Boot**, **RAG** sobre documentos autorizados e **modelos locais da família Qwen** para geração e embeddings. O **Jev** complementa a análise semântica por API, quando autorizado. PostgreSQL/pgvector armazena os dados e apoia a busca; OR-Tools CP-SAT faz a composição de equipes. A [especificação](docs/aptus-3.1/APTUS_3_1_Blueprint.md) detalha o papel de cada componente.
+
+O repositório inclui uma demonstração de interface em React, com dados fictícios e processamento simulado. O backend Java e as integrações com os modelos ainda não estão implementados.
+
 ## Por onde começar
 
 | Para | Acesse |
 | --- | --- |
 | Assistir ao pitch | [Vídeo final, versão 4](https://github.com/santana-iago/hackatohm/releases/tag/pitch-v4) |
-| Rodar a demonstração | [Protótipo React](prototype/aptus-demo/README.md) |
+| Rodar a demonstração | [Protótipo de demonstração](prototype/aptus-demo/README.md) |
 | Ler o resumo | [PDF de duas páginas](docs/entrega-2026/revisao-modelo-oficial/D03_Quatro_e_meio_Resumo.pdf) · [Word editável](docs/entrega-2026/revisao-modelo-oficial/D03_Quatro_e_meio_Resumo.docx) |
 | Entender a arquitetura | [Especificação Aptus 3.1](docs/aptus-3.1/APTUS_3_1_Blueprint.md) · [PDF](docs/aptus-3.1/APTUS_3_1_Blueprint.pdf) |
 | Encontrar os demais materiais | [Índice da documentação](docs/README.md) · [Lista de arquivos](docs/INDICE_DE_ARQUIVOS.md) |
@@ -57,7 +61,7 @@ Na demonstração, a composição conjunta chega a 31 pontos. Duas provas adicio
 | --- | --- |
 | Protótipo em React, TypeScript e Vite | Navegação, revisão documental, comparação de equipes, Recovery, cenas reproduzíveis e PDF local, com processamento simulado. |
 | Scripts em Python | Extração de currículos Word, análise exploratória, busca de editais e um teste inicial de correspondência. |
-| Arquitetura de produção | Especificação em Java 21/Spring Boot, PostgreSQL/pgvector, Docling, Qwen, Jev e OR-Tools CP-SAT. Essas integrações ainda são propostas. |
+| Arquitetura de produção | Java 21/Spring Boot, RAG, PostgreSQL/pgvector, Docling, Qwen local para geração e embeddings, Jev por API e OR-Tools CP-SAT. Especificada; implementação e integrações pendentes. |
 
 O código executável da demonstração está em [`prototype/aptus-demo/`](prototype/aptus-demo/). As regras e os contratos previstos para o produto estão na [especificação](docs/aptus-3.1/APTUS_3_1_Blueprint.md). Os resultados do cenário são ilustrativos; os ganhos operacionais dependem de um piloto.
 
