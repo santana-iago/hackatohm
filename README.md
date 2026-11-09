@@ -12,10 +12,10 @@ O repositório inclui uma demonstração de interface em React, com dados fictí
 
 | Para | Acesse |
 | --- | --- |
-| Assistir ao pitch | [Vídeo final, versão 4](https://github.com/santana-iago/hackatohm/releases/tag/pitch-v4) |
+| Assistir ao pitch | [Pitch vídeo](https://github.com/santana-iago/hackatohm/releases/tag/pitch-v4) |
 | Rodar a demonstração | [Protótipo de demonstração](prototype/aptus-demo/README.md) |
 | Ler o resumo | [PDF de duas páginas](docs/entrega-2026/revisao-modelo-oficial/D03_Quatro_e_meio_Resumo.pdf) · [Word editável](docs/entrega-2026/revisao-modelo-oficial/D03_Quatro_e_meio_Resumo.docx) |
-| Entender a arquitetura | [Especificação Aptus 3.1](docs/aptus-3.1/APTUS_3_1_Blueprint.md) · [PDF](docs/aptus-3.1/APTUS_3_1_Blueprint.pdf) |
+| Entender a arquitetura | [Especificação Aptus](docs/aptus-3.1/APTUS_3_1_Blueprint.md) · [PDF](docs/aptus-3.1/APTUS_3_1_Blueprint.pdf) |
 | Encontrar os demais materiais | [Índice da documentação](docs/README.md) · [Lista de arquivos](docs/INDICE_DE_ARQUIVOS.md) |
 
 ## Rodar o protótipo
