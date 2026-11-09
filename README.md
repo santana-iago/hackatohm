@@ -89,8 +89,6 @@ Quatro e meio, Engenharia de Computação do CEFET-MG:
 
 Mentores do desafio: Daniel Hasan Dalip e Poliana Aparecida Corrêa de Oliveira.
 
-## Dados e colaboração
+## Dados
 
 O protótipo usa pessoas e documentos fictícios. Os currículos fornecidos no desafio e suas extrações não fazem parte do repositório; o relatório exploratório conserva contagens agregadas e identificadores anonimizados.
-
-Para propor mudanças, consulte [como contribuir](CONTRIBUTING.md). Fontes, premissas e limitações estão registradas nos documentos correspondentes.
